@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Alpha</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+
+    <string name="wrong_username_or_password">Wrong username or password</string>
+    <string name="unknown_error">Unknown error</string>
+
+    <string name="available">Available</string>
+    <string name="my">My</string>
+
+    <string name="reserved_time">Reserved time</string>
+    <string name="seats">%s seats</string>
+    <string name="there_seats_in_the_room">There are %s seats in the room</string>
+    <string name="projector">Projector</string>
+    <string name="board">Board</string>
+    <string name="reserve">Reserve</string>
+
+    <string name="success">Success</string>
+    <string name="your_request_has_been_sent_to_manager">Your request has been sent to manager</string>
+
+    <string name="error">Error</string>
+    <string name="time_is_invalid">Time is invalid</string>
+    <string name="reservation_already_requested">Reservation already requested</string>
+    <string name="time_is_taken">Time is taken</string>
+
+    <string name="date">Date</string>
+    <string name="pick_date">Pick date</string>
+    <string name="time">Time</string>
+    <string name="pick_start_time">Pick start time</string>
+    <string name="pick_end_time">Pick end time</string>
+
+    <string name="your_request_has_been_accepted">Your request has been confirmed</string>
+    <string name="your_request_has_been_declined">Your request has been declined</string>
+    <string name="office_manager_sent_you_a_feedback">Office manager sent you a feedback</string>
+
+    <string name="no_internet_connection">No internet connection</string>
+</resources>
